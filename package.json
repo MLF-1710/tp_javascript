@@ -1,0 +1,11 @@
+{
+  "name": "cours_javascript",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "nodeunit test/*"
+  },
+  "dependencies": {
+    "nodeunit": "~0.9.1"
+  }
+}

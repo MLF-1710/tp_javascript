@@ -1,0 +1,28 @@
+[
+  {
+    "gender": "MR",
+    "firstName": "Eric",
+    "lastName": "RAMAT",
+    "mails": [
+      {
+        "address": "eric.ramat@gmail.com",
+        "category": "PERSO"
+      },
+      {
+        "address": "ramat@lisic.univ-littoral.fr",
+        "category": "PRO"
+      }
+    ]
+  },
+  {
+    "gender": "MRS",
+    "firstName": "Marie",
+    "lastName": "DUPOND",
+    "mails": [
+      {
+        "address": "marie.dupond@gmail.com",
+        "category": "PERSO"
+      }
+    ]
+  }
+]
